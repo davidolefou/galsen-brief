@@ -1,0 +1,9 @@
+node_modules/
+out/
+public/editions/*/*.mp3
+public/assets/images/test-*/
+editions/test-*.json
+._*
+.DS_Store
+public/assets/images/
+public/weekly/

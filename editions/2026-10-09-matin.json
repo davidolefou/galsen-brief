@@ -1,0 +1,61 @@
+{
+  "id": "2026-10-09-matin",
+  "edition": "matin",
+  "date": "Vendredi 9 octobre 2026",
+  "voice": "fr-FR-VivienneMultilingualNeural",
+  "rate": "+6%",
+  "intro": "Bonjour le Sénégal, c'est Galsen Brief. Voici ce qu'il faut savoir ce matin.",
+  "outro": "C'était Galsen Brief. Rendez-vous ce midi pour la société et le sport. Abonne-toi pour ne rien rater.",
+  "nextEdition": "RDV À MIDI",
+  "segments": [
+    {
+      "rubrique": "actu",
+      "titre": "137,5 mm : record de pluie depuis 1946",
+      "chiffre": "137,5 mm",
+      "voix": "Dimanche dernier, Yoff a reçu 137,5 millimètres de pluie en 24 heures. C'est la plus forte pluie d'octobre depuis 1946, selon l'ANACIM. Et ce n'est pas fini : des orages sont encore attendus ce week-end sur l'axe Dakar–Mbour–Fatick, le Saloum et la Casamance.",
+      "source": "Dakaractu · Senego",
+      "image": "assets/images/2026-10-09/pluie.jpg",
+      "imageCredit": "Dakaractu"
+    },
+    {
+      "rubrique": "sport",
+      "titre": "Finale de la CAN : le Sénégal devant le TAS",
+      "chiffre": "TAS",
+      "voix": "Finale de la CAN : le Sénégal a plaidé sa cause hier devant le Tribunal arbitral du sport, à Lausanne, à huis clos. La Fédération conteste la décision de la CAF qui a donné le titre au Maroc. Verdict attendu dans quelques jours ou quelques semaines.",
+      "source": "Senego",
+      "image": "assets/images/2026-10-09/tas.jpg",
+      "imageCredit": "Senego"
+    },
+    {
+      "rubrique": "faits-divers",
+      "titre": "Nord-Foire : la famille réclame une autopsie",
+      "voix": "À Nord-Foire, un chauffeur VTC disparu depuis dimanche a été retrouvé mort dans sa voiture. Le procureur a renoncé à l'autopsie en raison de l'état du corps. Sa famille conteste cette décision et réclame la vérité. La gendarmerie a ouvert une enquête.",
+      "source": "Senego",
+      "image": "assets/images/2026-10-09/nord-foire.jpg",
+      "imageCredit": "Dakaractu"
+    },
+    {
+      "rubrique": "faits-divers",
+      "titre": "19 kg de chanvre saisis à Saint-Louis",
+      "chiffre": "19 kg",
+      "voix": "Lutte contre la drogue : à Saint-Louis, deux hommes ont été arrêtés avec 19 kilos de chanvre indien dans un taxi. Et en Casamance, l'armée a découvert plusieurs champs de chanvre sur une île des Karones, sans interpellation pour l'instant.",
+      "source": "Senego · Dakaractu",
+      "image": "assets/images/2026-10-09/chanvre.jpg",
+      "imageCredit": "Senego"
+    },
+    {
+      "rubrique": "justice",
+      "titre": "Thiès : 39 parcelles vendues avec de faux actes",
+      "chiffre": "39",
+      "voix": "Enfin, à Thiès, deux hommes sont soupçonnés d'avoir vendu 39 parcelles avec de faux actes. Le préjudice est estimé à 5 millions de francs CFA. Ils ont été déférés au parquet.",
+      "source": "Senego",
+      "image": "assets/images/2026-10-09/thies-tribunal.jpg",
+      "imageCredit": "Thiesinfo"
+    }
+  ],
+  "music": "assets/music/matin.mp3",
+  "sfx": {
+    "transition": "assets/sfx/whoosh.mp3",
+    "title": "assets/sfx/whoosh-soft.mp3"
+  }
+}

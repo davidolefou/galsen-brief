@@ -1,0 +1,67 @@
+{
+  "id": "2026-10-09",
+  "periode": "Du 3 au 9 octobre 2026",
+  "cover": { "image": "weekly/2026-10-09/pluie.jpg", "credit": "Dakaractu" },
+  "items": [
+    {
+      "rubrique": "actu",
+      "titre": "Dakar sous les eaux, 921 milliards contre les inondations",
+      "chiffre": "137,5 mm",
+      "chiffreLabel": "de pluie à Yoff le 4 octobre",
+      "texte": "La plus forte pluie d'octobre depuis 1946 selon l'ANACIM. Le Premier ministre a annoncé un plan de 921 milliards FCFA : drainage, bassins de rétention, zones à risque. De nouvelles pluies sont attendues du 10 au 12 octobre.",
+      "source": "ANACIM · Dakaractu · Senego",
+      "image": "weekly/2026-10-09/pluie.jpg",
+      "credit": "Dakaractu"
+    },
+    {
+      "rubrique": "sport",
+      "titre": "Finale de la CAN : le Sénégal a plaidé sa cause devant le TAS",
+      "chiffre": "8 OCT.",
+      "chiffreLabel": "audience à huis clos à Lausanne",
+      "texte": "La FSF conteste la décision de la CAF, qui a attribué au Maroc le titre de la finale gagnée par les Lions après prolongation. Trois arbitres vont trancher. Verdict attendu dans les prochaines semaines.",
+      "source": "Senego",
+      "image": "weekly/2026-10-09/tas.jpg",
+      "credit": "Senego"
+    },
+    {
+      "rubrique": "societe",
+      "titre": "TER Dakar–AIBD : fin de la gratuité dès lundi",
+      "chiffre": "3 000 F",
+      "chiffreLabel": "le billet minimum en 2e classe",
+      "texte": "À partir du lundi 12 octobre, le trajet vers l'aéroport devient payant : de 3 000 à 4 000 FCFA en 2e classe selon la gare de départ, 10 000 FCFA en 1re classe.",
+      "source": "SENTER · SETER · Senego",
+      "image": "weekly/2026-10-09/ter.jpg",
+      "credit": "Senego"
+    },
+    {
+      "rubrique": "sport",
+      "titre": "Cheikhou Kouyaté raccroche les crampons",
+      "chiffre": "92",
+      "chiffreLabel": "matchs avec les Lions",
+      "texte": "À 36 ans, l'ancien capitaine met fin à sa carrière. Champion d'Afrique en 2021, passé par Anderlecht, West Ham et Crystal Palace, il quitte le football avec 92 sélections et 4 buts.",
+      "source": "Senego · wiwsport · FSF",
+      "image": "weekly/2026-10-09/kouyate.jpg",
+      "credit": "Senego"
+    },
+    {
+      "rubrique": "societe",
+      "titre": "Une pirogue partie du Sénégal secourue près des Canaries",
+      "chiffre": "120",
+      "chiffreLabel": "personnes secourues",
+      "texte": "Vendredi, les garde-côtes espagnols ont secouru 120 personnes, dont 13 femmes et 32 mineurs, transférées à Tenerife. Aucun décès ni blessé n'a été signalé.",
+      "source": "Senego · Seneweb",
+      "image": "weekly/2026-10-09/pirogue.jpg",
+      "credit": "Senego"
+    },
+    {
+      "rubrique": "politique",
+      "titre": "Assemblée : six commissions d'enquête sous les projecteurs",
+      "chiffre": "6",
+      "chiffreLabel": "commissions d'enquête",
+      "texte": "Licences de pêche, programme « Un étudiant, un ordinateur »… Les auditions s'enchaînent et sont retransmises en direct, ce qui fait débat. Chaque commission compte au maximum 11 députés.",
+      "source": "Assemblée nationale · Senego · Dakaractu",
+      "image": "weekly/2026-10-09/assemblee.jpg",
+      "credit": "Senego"
+    }
+  ]
+}
